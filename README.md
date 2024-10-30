@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently a Student at Glasgow Caledonian University
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently a Student at Glasgow Caledonian University 
+  
